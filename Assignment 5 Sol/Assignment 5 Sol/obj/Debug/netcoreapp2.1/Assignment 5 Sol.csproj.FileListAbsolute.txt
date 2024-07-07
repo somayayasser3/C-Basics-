@@ -1,0 +1,11 @@
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Assignment 5 Sol\Assignment 5 Sol\bin\Debug\netcoreapp2.1\Assignment 5 Sol.deps.json
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Assignment 5 Sol\Assignment 5 Sol\bin\Debug\netcoreapp2.1\Assignment 5 Sol.runtimeconfig.json
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Assignment 5 Sol\Assignment 5 Sol\bin\Debug\netcoreapp2.1\Assignment 5 Sol.runtimeconfig.dev.json
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Assignment 5 Sol\Assignment 5 Sol\bin\Debug\netcoreapp2.1\Assignment 5 Sol.dll
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Assignment 5 Sol\Assignment 5 Sol\bin\Debug\netcoreapp2.1\Assignment 5 Sol.pdb
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Assignment 5 Sol\Assignment 5 Sol\obj\Debug\netcoreapp2.1\Assignment 5 Sol.csprojAssemblyReference.cache
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Assignment 5 Sol\Assignment 5 Sol\obj\Debug\netcoreapp2.1\Assignment 5 Sol.csproj.CoreCompileInputs.cache
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Assignment 5 Sol\Assignment 5 Sol\obj\Debug\netcoreapp2.1\Assignment 5 Sol.AssemblyInfoInputs.cache
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Assignment 5 Sol\Assignment 5 Sol\obj\Debug\netcoreapp2.1\Assignment 5 Sol.AssemblyInfo.cs
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Assignment 5 Sol\Assignment 5 Sol\obj\Debug\netcoreapp2.1\Assignment 5 Sol.dll
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Assignment 5 Sol\Assignment 5 Sol\obj\Debug\netcoreapp2.1\Assignment 5 Sol.pdb

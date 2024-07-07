@@ -1,0 +1,11 @@
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.deps.json
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.runtimeconfig.json
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.runtimeconfig.dev.json
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.dll
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.pdb
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.csprojAssemblyReference.cache
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.csproj.CoreCompileInputs.cache
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.AssemblyInfoInputs.cache
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.AssemblyInfo.cs
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.dll
+E:\Route Backend .net\02 - C# Basics\Session 05 (2-7-2024)\Session 05\Assignments\Assignment 5 Solution\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.pdb
